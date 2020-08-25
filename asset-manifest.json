@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dehnovo/static/css/main.ddc21681.chunk.css",
-    "main.js": "/dehnovo/static/js/main.22190911.chunk.js",
-    "main.js.map": "/dehnovo/static/js/main.22190911.chunk.js.map",
+    "main.css": "/dehnovo/static/css/main.db6c7b38.chunk.css",
+    "main.js": "/dehnovo/static/js/main.29cf979c.chunk.js",
+    "main.js.map": "/dehnovo/static/js/main.29cf979c.chunk.js.map",
     "runtime-main.js": "/dehnovo/static/js/runtime-main.b820ca95.js",
     "runtime-main.js.map": "/dehnovo/static/js/runtime-main.b820ca95.js.map",
     "static/css/2.11829350.chunk.css": "/dehnovo/static/css/2.11829350.chunk.css",
     "static/js/2.a8d4d5fa.chunk.js": "/dehnovo/static/js/2.a8d4d5fa.chunk.js",
     "static/js/2.a8d4d5fa.chunk.js.map": "/dehnovo/static/js/2.a8d4d5fa.chunk.js.map",
     "index.html": "/dehnovo/index.html",
-    "precache-manifest.997df62ab736938a27a919537ff60e56.js": "/dehnovo/precache-manifest.997df62ab736938a27a919537ff60e56.js",
+    "precache-manifest.c44c38a66711cb718d8e4ab4de820e31.js": "/dehnovo/precache-manifest.c44c38a66711cb718d8e4ab4de820e31.js",
     "service-worker.js": "/dehnovo/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/dehnovo/static/css/2.11829350.chunk.css.map",
-    "static/css/main.ddc21681.chunk.css.map": "/dehnovo/static/css/main.ddc21681.chunk.css.map",
+    "static/css/main.db6c7b38.chunk.css.map": "/dehnovo/static/css/main.db6c7b38.chunk.css.map",
     "static/js/2.a8d4d5fa.chunk.js.LICENSE.txt": "/dehnovo/static/js/2.a8d4d5fa.chunk.js.LICENSE.txt",
     "static/media/header.jpg": "/dehnovo/static/media/header.31edb725.jpg",
     "static/media/meet.jpg": "/dehnovo/static/media/meet.211c127c.jpg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.b820ca95.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.a8d4d5fa.chunk.js",
-    "static/css/main.ddc21681.chunk.css",
-    "static/js/main.22190911.chunk.js"
+    "static/css/main.db6c7b38.chunk.css",
+    "static/js/main.29cf979c.chunk.js"
   ]
 }
