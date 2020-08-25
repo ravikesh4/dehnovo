@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/dehnovo/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/dehnovo/static/js/main.57a0f869.chunk.js",
-    "main.js.map": "/dehnovo/static/js/main.57a0f869.chunk.js.map",
+    "main.css": "/dehnovo/static/css/main.ddc21681.chunk.css",
+    "main.js": "/dehnovo/static/js/main.22190911.chunk.js",
+    "main.js.map": "/dehnovo/static/js/main.22190911.chunk.js.map",
     "runtime-main.js": "/dehnovo/static/js/runtime-main.b820ca95.js",
     "runtime-main.js.map": "/dehnovo/static/js/runtime-main.b820ca95.js.map",
     "static/css/2.11829350.chunk.css": "/dehnovo/static/css/2.11829350.chunk.css",
-    "static/js/2.b1f9c1e3.chunk.js": "/dehnovo/static/js/2.b1f9c1e3.chunk.js",
-    "static/js/2.b1f9c1e3.chunk.js.map": "/dehnovo/static/js/2.b1f9c1e3.chunk.js.map",
+    "static/js/2.a8d4d5fa.chunk.js": "/dehnovo/static/js/2.a8d4d5fa.chunk.js",
+    "static/js/2.a8d4d5fa.chunk.js.map": "/dehnovo/static/js/2.a8d4d5fa.chunk.js.map",
     "index.html": "/dehnovo/index.html",
-    "precache-manifest.ebe7b9883df78e9a4ef589915ed6a731.js": "/dehnovo/precache-manifest.ebe7b9883df78e9a4ef589915ed6a731.js",
+    "precache-manifest.997df62ab736938a27a919537ff60e56.js": "/dehnovo/precache-manifest.997df62ab736938a27a919537ff60e56.js",
     "service-worker.js": "/dehnovo/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/dehnovo/static/css/2.11829350.chunk.css.map",
-    "static/css/main.27fd15f6.chunk.css.map": "/dehnovo/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.b1f9c1e3.chunk.js.LICENSE.txt": "/dehnovo/static/js/2.b1f9c1e3.chunk.js.LICENSE.txt",
+    "static/css/main.ddc21681.chunk.css.map": "/dehnovo/static/css/main.ddc21681.chunk.css.map",
+    "static/js/2.a8d4d5fa.chunk.js.LICENSE.txt": "/dehnovo/static/js/2.a8d4d5fa.chunk.js.LICENSE.txt",
     "static/media/header.jpg": "/dehnovo/static/media/header.31edb725.jpg",
     "static/media/meet.jpg": "/dehnovo/static/media/meet.211c127c.jpg",
     "static/media/requirement.jpg": "/dehnovo/static/media/requirement.ec4e5d11.jpg",
+    "static/media/slider1.jpg": "/dehnovo/static/media/slider1.0b9b750d.jpg",
     "static/media/why.jpg": "/dehnovo/static/media/why.8f795b2e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b820ca95.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.b1f9c1e3.chunk.js",
-    "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.57a0f869.chunk.js"
+    "static/js/2.a8d4d5fa.chunk.js",
+    "static/css/main.ddc21681.chunk.css",
+    "static/js/main.22190911.chunk.js"
   ]
 }

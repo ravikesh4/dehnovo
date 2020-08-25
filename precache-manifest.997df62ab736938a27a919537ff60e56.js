@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68ac6fc6ec5dc08f9e819dbda85f196c",
+    "revision": "c1b009da4a8f5f2d6abcc7ec280a5b10",
     "url": "/dehnovo/index.html"
   },
   {
-    "revision": "8a1464f7281fefd6fff8",
+    "revision": "c2ffbe3111d70841b6b5",
     "url": "/dehnovo/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "d58e64bfa1b19cad8278",
-    "url": "/dehnovo/static/css/main.27fd15f6.chunk.css"
+    "revision": "b7aadb6aafd553bfca89",
+    "url": "/dehnovo/static/css/main.ddc21681.chunk.css"
   },
   {
-    "revision": "8a1464f7281fefd6fff8",
-    "url": "/dehnovo/static/js/2.b1f9c1e3.chunk.js"
+    "revision": "c2ffbe3111d70841b6b5",
+    "url": "/dehnovo/static/js/2.a8d4d5fa.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/dehnovo/static/js/2.b1f9c1e3.chunk.js.LICENSE.txt"
+    "url": "/dehnovo/static/js/2.a8d4d5fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d58e64bfa1b19cad8278",
-    "url": "/dehnovo/static/js/main.57a0f869.chunk.js"
+    "revision": "b7aadb6aafd553bfca89",
+    "url": "/dehnovo/static/js/main.22190911.chunk.js"
   },
   {
     "revision": "3a381a949cfe0d34131f",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec4e5d118dc60c6e8891d30e46c91cdc",
     "url": "/dehnovo/static/media/requirement.ec4e5d11.jpg"
+  },
+  {
+    "revision": "0b9b750ddb2b4a08d25a8b2fbf2ef555",
+    "url": "/dehnovo/static/media/slider1.0b9b750d.jpg"
   },
   {
     "revision": "8f795b2e7d43b7074bdcaaa11fc8f75e",
