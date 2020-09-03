@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/dehnovo/static/css/main.db6c7b38.chunk.css",
-    "main.js": "/dehnovo/static/js/main.29cf979c.chunk.js",
-    "main.js.map": "/dehnovo/static/js/main.29cf979c.chunk.js.map",
+    "main.js": "/dehnovo/static/js/main.55c995f7.chunk.js",
+    "main.js.map": "/dehnovo/static/js/main.55c995f7.chunk.js.map",
     "runtime-main.js": "/dehnovo/static/js/runtime-main.b820ca95.js",
     "runtime-main.js.map": "/dehnovo/static/js/runtime-main.b820ca95.js.map",
-    "static/css/2.11829350.chunk.css": "/dehnovo/static/css/2.11829350.chunk.css",
-    "static/js/2.a8d4d5fa.chunk.js": "/dehnovo/static/js/2.a8d4d5fa.chunk.js",
-    "static/js/2.a8d4d5fa.chunk.js.map": "/dehnovo/static/js/2.a8d4d5fa.chunk.js.map",
+    "static/css/2.36155cc5.chunk.css": "/dehnovo/static/css/2.36155cc5.chunk.css",
+    "static/js/2.2d755fb9.chunk.js": "/dehnovo/static/js/2.2d755fb9.chunk.js",
+    "static/js/2.2d755fb9.chunk.js.map": "/dehnovo/static/js/2.2d755fb9.chunk.js.map",
     "index.html": "/dehnovo/index.html",
-    "precache-manifest.c44c38a66711cb718d8e4ab4de820e31.js": "/dehnovo/precache-manifest.c44c38a66711cb718d8e4ab4de820e31.js",
+    "precache-manifest.58a32bbba0f15ec5781dc5ee9b4fb834.js": "/dehnovo/precache-manifest.58a32bbba0f15ec5781dc5ee9b4fb834.js",
     "service-worker.js": "/dehnovo/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/dehnovo/static/css/2.11829350.chunk.css.map",
+    "static/css/2.36155cc5.chunk.css.map": "/dehnovo/static/css/2.36155cc5.chunk.css.map",
     "static/css/main.db6c7b38.chunk.css.map": "/dehnovo/static/css/main.db6c7b38.chunk.css.map",
-    "static/js/2.a8d4d5fa.chunk.js.LICENSE.txt": "/dehnovo/static/js/2.a8d4d5fa.chunk.js.LICENSE.txt",
+    "static/js/2.2d755fb9.chunk.js.LICENSE.txt": "/dehnovo/static/js/2.2d755fb9.chunk.js.LICENSE.txt",
     "static/media/header.jpg": "/dehnovo/static/media/header.31edb725.jpg",
     "static/media/meet.jpg": "/dehnovo/static/media/meet.211c127c.jpg",
     "static/media/requirement.jpg": "/dehnovo/static/media/requirement.ec4e5d11.jpg",
@@ -22,9 +22,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b820ca95.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.a8d4d5fa.chunk.js",
+    "static/css/2.36155cc5.chunk.css",
+    "static/js/2.2d755fb9.chunk.js",
     "static/css/main.db6c7b38.chunk.css",
-    "static/js/main.29cf979c.chunk.js"
+    "static/js/main.55c995f7.chunk.js"
   ]
 }

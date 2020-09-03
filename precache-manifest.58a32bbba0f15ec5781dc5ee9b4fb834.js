@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34e6d2c08cb2589d9c94d46d721bff8a",
+    "revision": "770cff375927c4887d6a0f2423062d0c",
     "url": "/dehnovo/index.html"
   },
   {
-    "revision": "c2ffbe3111d70841b6b5",
-    "url": "/dehnovo/static/css/2.11829350.chunk.css"
+    "revision": "ec1166e8407debeb0ef3",
+    "url": "/dehnovo/static/css/2.36155cc5.chunk.css"
   },
   {
-    "revision": "c32f8c65d5e5ecb29a8a",
+    "revision": "2c1e347f6b13ff06c56e",
     "url": "/dehnovo/static/css/main.db6c7b38.chunk.css"
   },
   {
-    "revision": "c2ffbe3111d70841b6b5",
-    "url": "/dehnovo/static/js/2.a8d4d5fa.chunk.js"
+    "revision": "ec1166e8407debeb0ef3",
+    "url": "/dehnovo/static/js/2.2d755fb9.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/dehnovo/static/js/2.a8d4d5fa.chunk.js.LICENSE.txt"
+    "revision": "20e794d2bc82e066633b87e6855036b9",
+    "url": "/dehnovo/static/js/2.2d755fb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c32f8c65d5e5ecb29a8a",
-    "url": "/dehnovo/static/js/main.29cf979c.chunk.js"
+    "revision": "2c1e347f6b13ff06c56e",
+    "url": "/dehnovo/static/js/main.55c995f7.chunk.js"
   },
   {
     "revision": "3a381a949cfe0d34131f",

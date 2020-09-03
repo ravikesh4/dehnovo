@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dehnovo/precache-manifest.c44c38a66711cb718d8e4ab4de820e31.js"
+  "/dehnovo/precache-manifest.58a32bbba0f15ec5781dc5ee9b4fb834.js"
 );
 
 self.addEventListener('message', (event) => {
